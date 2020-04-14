@@ -1,0 +1,16 @@
+{
+  "name": "console_application_node_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js \"\" **/*.js ignore/.globignore"
+  },
+  "keywords": [],
+  "author": "HucklJS",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.6",
+    "parse-gitignore": "^1.0.1"
+  }
+}
